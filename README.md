@@ -1,3 +1,5 @@
-# Getting Started with Create React App
+# Dev Days Week-3 Task
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+[Backend Repository](https://github.com/Kashishjain04/DevDays-Week3-backend)
+<br />
+[Hosted Site](https://devdays-week3.netlify.app)
